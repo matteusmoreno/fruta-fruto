@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@300;400&display=swap');
+
+@import url("cabecalho.css");
+@import url("menu/menu-item.css");
+@import url("menu/menu-link.css");
+@import url("menu/menu-lista.css");
+@import url("banner/banner.css");
+@import url("banner/banner-imagem.css");
+@import url("banner/banner-titulo.css");
+@import url("sobre/sobre.css");
+@import url("sobre/sobre-descricao.css");
+@import url("sobre/sobre-titulo.css");
+@import url("receitas.css");
+@import url("receita/receita.css");
+@import url("receita/receita__botao.css");
+@import url("receita/receita__conteudo.css");
+@import url("receita/receita__descricao.css");
+@import url("receita/receita__imagem.css");
+@import url("receita/receita__titulo.css");
+@import url("quem-somos/quem-somos.css");
+@import url("quem-somos/quem-somos__descricao.css");
+@import url("quem-somos/quem-somos__titulo.css");
+@import url("pessoas.css");
+@import url("pessoa/pessoa.css");
+@import url("pessoa/pessoa__funcao.css");
+@import url("pessoa/pessoa__imagem.css");
+@import url("pessoa/pessoa__nome.css");
+@import url("rodape.css");
+@import url("logo.css");
+
+:root {
+    --fonte-primaria: 'Roboto', sans-serif;
+    --fonte-secundaria: 'Pacifico', cursive;
+}
+
